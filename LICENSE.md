@@ -19,8 +19,6 @@ Public redistribution and commercial use are prohibited.
 This license is derived from version 1.2 of the Supplementaries Team License, with permission given.
 
 ## 1. Definitions
-
-Definitions
 For the purposes of this Agreement, the following definitions apply:
 
 - **Our Repositories** refers to source code of the Software that is hosted online and owned by the owners.
