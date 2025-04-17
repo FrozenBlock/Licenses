@@ -21,13 +21,23 @@ This license is derived from version 1.2 of the Supplementaries Team License, wi
 ## 1. Definitions
 For the purposes of this Agreement, the following definitions apply:
 
-- **Our Repositories** refers to source code of the Software that is hosted online and owned by the owners.
+- **Source Code** refers to source code of the Software.
+
+- **Our Repositories** refers to "Source Code" of the Software that is hosted online and owned by the owners.
 
 - **Our Sources** refers to copies of the Software or its associated files obtained directly from the owners. This includes files available on the owners' official CurseForge or Modrinth project pages.
 
 - **Compete** refers to any project or software offering similar functionality, features, or services as the Software and targeting the same or a similar user base. This includes, but is not limited to, software that directly substitutes or mirrors one or more functionalities of the Software.
 
 - **Assets** refers to any non-code components of the Software, including but not limited to textures, models, sounds, icons, and other visual or auditory elements.
+
+### 1.1. Exemptions
+Cases indicated by each exemption defined below result indicate that a specific piece of the Software is not covered under this license.
+
+The exemptions to applicable definitions are as follows:
+
+- "Our Code" does not apply when it is explicitly indicated that the owners did not write the code. This may be indicated inside the code itself, or contained elsewhere within the project.
+- "Assets" does not apply when the owners were not involved in the creation of the asset.
 
 ## 2. Grant of License
 Permissions are hereby granted below to any person having a copy of this software and/or its associated files:
@@ -37,7 +47,7 @@ The Software may be used for both private and public purposes as well integrated
 
 ### 2.2. Copying
 The Software may be copied for private use or to contribute to its development.
-The Licensee may incorporate part of this Software code into their own projects provided that:
+The Licensee may incorporate part of this "Source Code" into their own projects provided that:
 
 - Appropriate credit is given to the original authors of the Software.
 - The Licensee's project does not "Compete" with the Software.
@@ -62,8 +72,8 @@ The Licensee shall not, under any circumstances, sub-license, lease, rent, or ot
 ### 2.6. Selling
 The sale of the Software, including its associated files, is strictly prohibited.
 
-### 2.7 Takedown Requests
-The Licenser reserves the right to have any of the Licensee’s projects using parts of code from The Software (under 2.2 Copying) cease to use, include or distribute said code, in part or in whole, at the Licenser’s discretion.
+### 2.7. Takedown Requests
+The Licenser reserves the right to have any of the Licensee’s projects using parts of the "Source Code" (under 2.2 Copying) cease to use, include or distribute said "Source Code", in part or in whole, at the Licenser’s discretion.
 
 The Licenser guarantees that a minimum of 14 days notice will be provided to allow any necessary changes in the Licensee’s software to be made to ensure it remains compliant with the request from the Licenser, after which any future changes or releases to the Licensee’s software must no longer use any code from The Software which was requested to be removed by the Licenser.
 
