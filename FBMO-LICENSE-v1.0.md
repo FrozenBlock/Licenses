@@ -21,7 +21,7 @@ This license is derived from version 1.2 of the Supplementaries Team License, wi
 ## 1. Definitions
 For the purposes of this Agreement, the following definitions apply:
 
-- **Source Code** refers to source code of the Software.
+- **Source Code** refers to source code of the Software, modified or not.
 
 - **Our Repositories** refers to "Source Code" of the Software that is hosted online and owned by the owners.
 
